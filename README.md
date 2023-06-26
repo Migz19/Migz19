@@ -2,7 +2,7 @@
 <!-- Your title -->
 ## Hello, I'm Ahmed!
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=comfortaa&color=016EEA&size=24&width=500&lines=Egyption+Software+Engineer;Flutter-Developer+;Android-Developer;Nice+to+meet+you...)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=comfortaa&color=016EEA&size=24&width=500&lines=Egyption+Software+Engineer;Android-Developer;Nice+to+meet+you...)](https://git.io/typing-svg)
 
 
 <p align="center">
@@ -64,7 +64,22 @@
 <br/>
 
 
-[![Ahmed Magdy's github status](https://github-readme-status.vercel.app/api?username=Migz19&hide=stars&show_icons=true&theme=radical&include_all_commits=true&count_private=true)](https://github.com/Migz19?tab=repositories)
+<details><summary><h3> :open_file_folder: My Repositories </h3></summary>
+
+----
+	<div>
+  <p align="center">
+	<a href="https://github.com/Migz19/Wasalny"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Migz19&repo=Wasalny" alt="GitHub Stats" />
+  <a href="https://github.com/Migz19/MovieClub"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Migz19&repo=MovieClub" alt="GitHub Stats" />  	
+	<a href="https://github.com/Migz19/Asteroid_Radar_EGfwd"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Migz19&repo=Asteroid_Radar_EGfwd" alt="GitHub Stats" />
+  <a href="https://github.com/Migz19/LoanEligibilityPredection"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Migz19&repo=LoanEligibilityPredection" alt="GitHub Stats" />
+	<a href="https://github.com/Migz19/Food-Order-System"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Migz19&repo=Food-Order-System" alt="GitHub Stats" />
+	<a href="https://github.com/Migz19/EgFwd_FirstProject_ShoeStore_Inventory_App"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Migz19&repo=EgFwd_FirstProject_ShoeStore_Inventory_App" alt="GitHub Stats" />
+    
+    
+  </p>
+</div>
+
 
 <!-- Your badges
 You can use the website to generate badges: https://shields.io/
