@@ -2,7 +2,7 @@
 <!-- Your title -->
 ## Hello, I'm Ahmed!
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=comfortaa&color=016EEA&size=24&width=500&lines=Egyption+Software+Engineer;Android-Developer;Nice+to+meet+you...)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=comfortaa&color=016EEA&size=24&width=500&lines=Egyptian+Software+Engineer;Android-Developer;Nice+to+meet+you...)](https://git.io/typing-svg)
 
 
 <p align="center">
