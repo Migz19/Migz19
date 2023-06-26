@@ -1,6 +1,6 @@
 
 <!-- Your title -->
-## Hello, I'm Norhan!
+## Hello, I'm Ahmed!
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=comfortaa&color=016EEA&size=24&width=500&lines=Egyption+Software+Engineer;Flutter-Developer+;Android-Developer;Nice+to+meet+you...)](https://git.io/typing-svg)
 
@@ -11,8 +11,8 @@
   </a>
 </p>
 
-[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/norhan-mahmoud-3494a7236)
-[![Resume](https://img.shields.io/badge/Resume-<COLOR>.svg)](https://drive.google.com/file/d/1RWedjtof0zPg22c-omLabE8z0NA_6XRj/view?usp=sharing)
+[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/ahmed-magdy-6b35b321b/)
+[![Resume](https://img.shields.io/badge/Resume-<COLOR>.svg)](https://drive.google.com/file/d/1hX5A6XwkS_AOpUCHEV713OxjkqjrxGJ1/view?usp=sharing)
 
      
 
@@ -23,7 +23,7 @@
 - 💼 &nbsp; I’m Working as Software Engineer 
 - 🔭 &nbsp; I’m currently learning Mobile Devolper 
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
-- 🎓 &nbsp; I am a student at ASU in Egypt 
+- 🎓 &nbsp; I am a student at Faculty of Computer and Information Science at ASU in Egypt 
 - 🌱 &nbsp; Enthusiast in Mobile Developer & Deep Learing.
 - ✍️ &nbsp; Watching Anime and Movies as hobbies/side hustles.
 - ☕ &nbsp; I belive, a perfect cup of coffee can be the ultimate solution for any stress. 
