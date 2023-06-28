@@ -32,28 +32,20 @@
 
 
   <br />  
-<h3>Languages and Tools:</h3>
-
-  <code><img width="8%"  src="https://cdn.worldvectorlogo.com/logos/c.svg"></code>
-  <code><img width="8%"  src="https://cdn.svgporn.com/logos/c.svg"></code>
-  <code><img width="8%"  src="https://cdn.svgporn.com/logos/c-sharp.svg"></code>
-  <code><img width="20%"  src="https://www.vectorlogo.zone/logos/dartlang/dartlang-ar21.svg"></code>
-  <br />
-  <code><img width="15%" src="https://www.vectorlogo.zone/logos/java/java-ar21.svg"></code>
-  <code><img width="15%" src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-ar21.svg"></code>
-  <code><img width="15%" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"></code>
-  <br />
-  <code><img width="15%" src="https://upload.wikimedia.org/wikipedia/de/8/8c/Microsoft_SQL_Server_Logo.svg"></code>
-  <code><img width="15%" src="https://www.vectorlogo.zone/logos/sqlite/sqlite-ar21.svg"></code>
-  <code><img width="15%" src="https://www.vectorlogo.zone/logos/oracle/oracle-ar21.svg"></code>
-  <br />
-  <code><img width="15%" src="https://www.vectorlogo.zone/logos/android/android-ar21.svg"></code>
-  <code><img width="15%" src="https://www.vectorlogo.zone/logos/flutterio/flutterio-ar21.svg"></code>
-  <code><img width="15%" src="https://www.vectorlogo.zone/logos/firebase/firebase-ar21.svg"></code>
-  <code><img width="15%" src="https://www.vectorlogo.zone/logos/w3c_xml/w3c_xml-ar21.svg"></code>
+<h3>Tools:</h3>
 
 
-  <code><img width="15%" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"></code>
+
+#### Programming languages I'm familier with:
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?&style=for-the-badge&logo=java&logoColor=white) ![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white) ![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white) ![Python](https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C++-%2314354C.svg?&style=for-the-badge&logo=C++&logoColor=white)
+
+#### Frameworks :
+<img src="https://img.shields.io/badge/Flutter%20-%2302569B.svg?&style=for-the-badge&logo=Flutter&logoColor=white" /> <img src="https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black" />
+
+
+#### Version Controls :
+<img src="https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white"/> <img src="https://img.shields.io/badge/github%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white"/>
 
 
 </p>
