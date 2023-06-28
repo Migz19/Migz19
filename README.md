@@ -21,10 +21,10 @@
 <h3> 👨🏻‍💻 About Me </h3>
 
 - 💼 &nbsp; I’m Working as Software Engineer 
-- 🔭 &nbsp; I’m currently learning Mobile Devolper 
+- 🔭 &nbsp; I’m currently learning Backend development with Laravel
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
 - 🎓 &nbsp; I am a student at Faculty of Computer and Information Science at ASU in Egypt 
-- 🌱 &nbsp; Enthusiast in Mobile Developer & Deep Learing.
+- 🌱 &nbsp; Enthusiast in Mobile Developement
 - ✍️ &nbsp; Watching Anime and Movies as hobbies/side hustles.
 - ☕ &nbsp; I belive, a perfect cup of coffee can be the ultimate solution for any stress. 
 - How to reach me: __migz2304@gmail.com__
@@ -64,10 +64,10 @@
 <br/>
 
 
-<details><summary><h3> :open_file_folder: My Repositories </h3></summary>
+<h3>My Repositories </h3>
 
 ----
-	<div>
+
   <p align="center">
 	<a href="https://github.com/Migz19/Wasalny"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Migz19&repo=Wasalny" alt="GitHub Stats" />
   <a href="https://github.com/Migz19/MovieClub"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Migz19&repo=MovieClub" alt="GitHub Stats" />  	
