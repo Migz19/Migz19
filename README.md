@@ -55,18 +55,6 @@
 
 <br/>
 
-
-<h3>My Repositories </h3>
-
-----
-
-  <p align="center">
-	<a href="https://github.com/Migz19/Wasalny"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Migz19&repo=Wasalny" alt="GitHub Stats" />
-  <a href="https://github.com/Migz19/MovieClub"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Migz19&repo=MovieClub" alt="GitHub Stats" />  	
-	<a href="https://github.com/Migz19/Asteroid_Radar_EGfwd"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Migz19&repo=Asteroid_Radar_EGfwd" alt="GitHub Stats" />
-  <a href="https://github.com/Migz19/LoanEligibilityPredection"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Migz19&repo=LoanEligibilityPredection" alt="GitHub Stats" />
-	<a href="https://github.com/Migz19/Food-Order-System"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Migz19&repo=Food-Order-System" alt="GitHub Stats" />
-	<a href="https://github.com/Migz19/EgFwd_FirstProject_ShoeStore_Inventory_App"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Migz19&repo=EgFwd_FirstProject_ShoeStore_Inventory_App" alt="GitHub Stats" />
     
     
   </p>
