@@ -16,7 +16,7 @@
 
      
 
-<img align="right" alt="GIF" src="https://media2.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400"/>
+<img align="right" alt="GIF" src="https://media2.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="370" height="300"/>
 
 <h3> 👨🏻‍💻 About Me </h3>
 
