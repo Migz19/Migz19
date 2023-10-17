@@ -12,7 +12,7 @@
 </p>
 
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/ahmed-magdy-6b35b321b/)
-[![Resume](https://img.shields.io/badge/Resume-<COLOR>.svg)](https://drive.google.com/file/d/1jgpmE18nGktdBK0q1bipX91WKwIkFFo2/view?usp=sharing)
+[![Resume](https://img.shields.io/badge/Resume-<COLOR>.svg)](https://drive.google.com/file/d/1qs9zEYiOeoZNYBEkaQp1gu5zvv-Xjxgp/view?usp=drivesdk)
 
      
 
