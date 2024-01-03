@@ -20,13 +20,13 @@
 
 <h3> 👨🏻‍💻 About Me </h3>
 
-- 💼 &nbsp; I’m Working as Software Engineer 
+- 💼 &nbsp; I’m Working as a Software Engineer 
 - 🔭 &nbsp; I’m currently learning Backend development with Laravel
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
 - 🎓 &nbsp; I am a student at Faculty of Computer and Information Science at ASU in Egypt 
-- 🌱 &nbsp; Enthusiast in Mobile Developement
+- 🌱 &nbsp; Enthusiast in Mobile Development
 - ✍️ &nbsp; Watching Anime and Movies as hobbies/side hustles.
-- ☕ &nbsp; I belive, a perfect cup of coffee can be the ultimate solution for any stress. 
+- ☕ &nbsp; I believe, a perfect cup of coffee can be the ultimate solution for any stress. 
 - How to reach me: __migz2304@gmail.com__
 &nbsp;
 
@@ -36,7 +36,7 @@
 
 
 
-#### Programming languages I'm familier with:
+#### Programming languages I'm familiar with:
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?&style=for-the-badge&logo=java&logoColor=white) ![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white) ![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white) ![Python](https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-%2314354C.svg?&style=for-the-badge&logo=C++&logoColor=white)
 
