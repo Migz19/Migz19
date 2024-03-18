@@ -21,12 +21,12 @@
 <h3> 👨🏻‍💻 About Me </h3>
 
 - 💼 &nbsp; I’m Working as a Software Engineer 
-- 🔭 &nbsp; I’m currently learning Backend development with Laravel
+- 🔭 &nbsp; I’m currently learning Backend development with ASP.NET
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
-- 🎓 &nbsp; I am a student at Faculty of Computer and Information Science at ASU in Egypt 
+- 🎓 &nbsp; I am a student at the Faculty of Computer and Information Science at ASU in Egypt 
 - 🌱 &nbsp; Enthusiast in Mobile Development
 - ✍️ &nbsp; Watching Anime and Movies as hobbies/side hustles.
-- ☕ &nbsp; I believe, a perfect cup of coffee can be the ultimate solution for any stress. 
+- ☕ &nbsp; I believe, a perfect cup of coffee can be the ultimate solution for stress. 
 - How to reach me: __migz2304@gmail.com__
 &nbsp;
 
