@@ -21,7 +21,7 @@
 <h3> 👨🏻‍💻 About Me </h3>
 
 - 💼 &nbsp; I’m Working as a Software Engineer 
-- 🔭 &nbsp; I’m currently learning Backend development with ASP.NET
+- 🔭 &nbsp; I’m currently learning Backend development with Java Spring
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
 - 🎓 &nbsp; I am a student at the Faculty of Computer and Information Science at ASU in Egypt 
 - 🌱 &nbsp; Enthusiast in Mobile Development
