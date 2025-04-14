@@ -2,7 +2,7 @@
 <!-- Your title -->
 ## Hello, I'm Ahmed!
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=comfortaa&color=016EEA&size=24&width=500&lines=Egyptian+Software+Engineer;Android-Developer;Nice+to+meet+you...)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=comfortaa&color=016EEA&size=24&width=500&lines=Egyptian+Software+Engineer;Mobile-Developer;Nice+to+meet+you...)](https://git.io/typing-svg)
 
 
 <p align="center">
@@ -21,7 +21,7 @@
 <h3> 👨🏻‍💻 About Me </h3>
 
 - 💼 &nbsp; I’m Working as a Software Engineer 
-- 🔭 &nbsp; I’m currently learning Backend development with Java Spring
+- 🔭 &nbsp; I’m currently learning Mobile development
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
 - 🎓 &nbsp; I am a student at the Faculty of Computer and Information Science at ASU in Egypt 
 - 🌱 &nbsp; Enthusiast in Mobile Development
